@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Device Features App
 
 A comprehensive Flutter application demonstrating native mobile device capability integrations step-by-step.
@@ -100,3 +101,6 @@ lib/
 ```
 
 Each screen and custom widget resides in its own Dart file following clean code principles, descriptive variable names, and clear comments explaining device integration logic.
+=======
+# Flutter-Device-Features-App
+>>>>>>> f1a82a6f25f6fb667ed019477b5b765ae056adfb
